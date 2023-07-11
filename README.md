@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### 🛠 My Tech Stack
 
+![](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=black)
 ![](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=React&logoColor=black)
 ![](https://img.shields.io/badge/React_Native-0088CC?style=for-the-badge&logo=React&logoColor=white)
-![](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=black)
 ![](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)
 
 ### 📞 Contact Me
